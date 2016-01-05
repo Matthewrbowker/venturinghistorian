@@ -1,0 +1,63 @@
+/* CSS Document */
+
+body { background:#3300CC; 
+font-family:Georgia, "Times New Roman", Times, serif;
+margin-top:0px;
+font-size: 12px;}
+
+hr {
+border-bottom: 1px dashed #000;
+border-top:none;
+border-left:none;
+border-right:none;
+clear: both;
+width:100%;}
+
+h1 {font-size:24px;
+color:#30C;
+}
+
+h2 {font-size:18px;
+color:#063;
+}
+
+h3 {font-size:16px;
+color:#666;
+}
+
+h4 {font-size:14px;
+color:#600;
+}
+
+a {color:#963;
+text-decoration:none;}
+
+a:hover {text-decoration:underline; }
+
+a:visited {color:#930;}
+
+#fullbody { width:970px;
+margin:auto;
+background:#FFF;
+padding:10px;}
+
+#heading {
+	text-align:center;
+	width:100%;
+	border-bottom:2px dashed #333;
+	text-decoration:none !important;
+}
+
+#footer {
+	text-align:center;
+	font-size:9px;
+	color:#333;
+	border-top:2px dashed #333;
+}
+
+#footernavlinks {
+	width:inherit;
+	text-align:center;
+	padding-bottom:3px;
+	padding-top:3px;
+}
